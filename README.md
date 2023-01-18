@@ -1,6 +1,8 @@
 <div align="center">
 
-## challenge-encrypter
+# challenge-encrypter
+ 
+ ---
 
 ![challenge-encrypter](/assets/_images/encrypter.png)
 
