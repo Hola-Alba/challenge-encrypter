@@ -14,10 +14,11 @@ You can find this exercise in (https://youtu.be/BLgio_oPkLw)
 ## Why
 
 ---
-
+<div align="left">
+ 
 Alura pushes you to find answers about how JavaScript works. Personally this was the most challenging part of the project. There are some features that can improve:
 
-<div align="left">
+
 
   -Make it responsive for tablets and phones.
   
@@ -26,7 +27,7 @@ Alura pushes you to find answers about how JavaScript works. Personally this was
   -When you write the text in the "write text here" box, the text below the image should be hidden.
   
 
-  That being said, there will be a future version of this app with the mentioned improvements, but for now, I'll move to learn something that's devouring my soul with curiosity.
+ That being said, there will be a future version of this app with the mentioned improvements, but for now, I'll move to learn something that's devouring my soul with curiosity.
 
 <div align="center">
 
