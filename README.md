@@ -4,7 +4,7 @@
  
  ---
 
-![challenge-encrypter](/assets/_images/encrypter.png)
+![challenge-encrypter](/assets/images/encrypter.png)
 
 ## What
 
